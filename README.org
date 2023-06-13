@@ -1,0 +1,10 @@
+* torta
+
+Torta shows you where your disk space is being used. Its user interface is similar to that of the program filelight. Unlike filelight, Torta does not need any graphical environment to run: it analyzes the file system directly and generates a Flash file that you can load locally or remotely on any Flash-supporting web browser.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sgarciac/torta.git   |
+| commit  | 4591623  |
+| systems | torta |
+|---------+-------------------------------------------|
+
